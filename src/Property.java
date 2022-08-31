@@ -14,6 +14,6 @@ public class Property {
 
 
     public double getSize(){ return width*length; }
-    }
+}
 
 
